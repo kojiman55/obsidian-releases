@@ -28649,5 +28649,12 @@
     "author": "Icarian Systems",
     "description": "This plugin has not been manually reviewed by Obsidian staff. A research agent for your vault. Runs locally in Docker against your own Anthropic API key.",
     "repo": "icarian-systems/feynman-research-agent"
+  },
+  {
+    "id": "context-pack-for-notebooklm",
+    "name": "Context Pack for NotebookLM",
+    "author": "dualyzeAI",
+    "description": "Build clean Context Packs from your Obsidian vault for NotebookLM. Bundles notes by folder, tag, or MOC into a single formatted file — stripping wikilinks, frontmatter, and Obsidian syntax for accurate AI responses.",
+    "repo": "dualyzeAI/obsidian-context-pack"
   }
 ]
