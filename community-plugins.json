@@ -28445,7 +28445,7 @@
 		"name": "AI Context Pack",
 		"author": "DualyzeAI",
 		"description": "Package your Obsidian notes into context packs for any AI — NotebookLM, ChatGPT, Claude, Gemini, and more.",
-		"repo": "kojiman55/obsidian-context-pack"
+		"repo": "dualyze-ai/obsidian-context-pack"
 	},
 	{
 		"id": "paper-flow",
