@@ -28654,7 +28654,7 @@
     "id": "context-pack-for-notebooklm",
     "name": "Context Pack for NotebookLM",
     "author": "dualyzeAI",
-    "description": "Build clean Context Packs from your Obsidian vault for NotebookLM. Bundles notes by folder, tag, or MOC into a single formatted file — stripping wikilinks, frontmatter, and Obsidian syntax for accurate AI responses.",
+    "description": "Turn your Obsidian notes into AI-ready context packs for ChatGPT, Claude, Gemini, NotebookLM, and more. Export clean Markdown with built-in freshness tracking.",
     "repo": "dualyzeAI/obsidian-context-pack"
   }
 ]
