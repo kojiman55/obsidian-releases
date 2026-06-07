@@ -28654,7 +28654,7 @@
     "id": "context-pack-for-notebooklm",
     "name": "Context Pack for NotebookLM",
     "author": "dualyzeAI",
-    "description": "Turn your Obsidian notes into AI-ready context packs for ChatGPT, Claude, Gemini, NotebookLM, and more. Export clean Markdown with built-in freshness tracking.",
+    "description": "Turn your notes into AI-ready context packs for ChatGPT, Claude, Gemini, NotebookLM, and more. Export clean Markdown with built-in freshness tracking.",
     "repo": "dualyzeAI/obsidian-context-pack"
   }
 ]
