@@ -31946,5 +31946,12 @@
     "author": "suntinglu777",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Edit Markdown files and export them as styled images through a local converter.",
     "repo": "sunxiaoqiqi/markdown-image-maker"
+  },
+  {
+    "id": "dualyze-notes",
+    "name": "Dualyze Notes",
+    "author": "dualyzeAI",
+    "description": "Find similar notes and create safe merge drafts. Compare notes side by side with score breakdown across title, headings, tags, links, and content.",
+    "repo": "dualyze-ai/dualyze-notes"
   }
 ]
