@@ -30028,5 +30028,12 @@
     "author": "ThreeM",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Generates and replaces images in your notes based on a description heading, using AI.",
     "repo": "threem-mmm/note-illustrator"
+  },
+  {
+    "id": "dualyze-structure",
+    "name": "Dualyze Structure",
+    "author": "dualyzeAI",
+    "description": "Turn long notes into structured knowledge: split notes, parent links, structure index, and MOC.",
+    "repo": "dualyze-ai/obsidian-dualyze-structure"
   }
 ]
